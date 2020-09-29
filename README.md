@@ -6,4 +6,5 @@ Scroll effects are more and more popular whether animating images or other eleme
 
 For my bonus I added a secret message within the lorem ipsum text that will highlight upon scroll. Compounding with yesterdays tutorial, if the user types the hidden message without any spaces they it will open up an email so you can contact me for work opportunities. 
 
-<a href="">Demo</a>
+<a href="https://nikrowedevjs30-slide-in-on-scroll.netlify.app/">Demo</a>
+Resource: <a href="https://stackoverflow.com/questions/16050318/mailto-subject-as-a-variable">S.O.</a>
