@@ -1,3 +1,5 @@
+const sliderImages = document.querySelectorAll('.slide-in')
+
 function debounce(func, wait = 20, immediate = true) {
     var timeout;
     return function () {
@@ -12,3 +14,9 @@ function debounce(func, wait = 20, immediate = true) {
         if (callNow) func.apply(context, args);
     };
 }
+
+function checkSlide(e) {
+    console.count(e)
+}
+
+window.addEventListener('scroll', debounce(checkSlide, 40))
