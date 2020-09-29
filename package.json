@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/NikRowe/JS30-SLIDE-IN-ON-SCROLL/issues"
   },
-  "homepage": "https://github.com/NikRowe/JS30-SLIDE-IN-ON-SCROLL#readme"
+  "homepage": "https://github.com/NikRowe/JS30-SLIDE-IN-ON-SCROLL#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
