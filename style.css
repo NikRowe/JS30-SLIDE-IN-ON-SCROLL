@@ -55,3 +55,9 @@ h1 {
     opacity: 1;
     transform: translateX(0%) scale(1);
 }
+
+.hiddenMsg {
+    background-color: teal;
+    color: white;
+    font-size: 30px;
+}
